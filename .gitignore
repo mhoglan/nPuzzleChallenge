@@ -1,0 +1,10 @@
+*.iml
+target
+.idea
+.DS_Store
+.vagrant
+*.vdi
+out
+
+src/main/java/project/PuzzleBank2.java
+src/main/java/project/PuzzleWorker2.java
